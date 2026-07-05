@@ -23,4 +23,4 @@ I am an IT and Data Analytics professional specializing in bridging the gap betw
 
 ## 📬 Connect With Me
 * 🌐 **Portfolio Site:** [Visit my live portfolio](https://ardenaraiche-svg.github.io/ardenaraiche.github.io/)
-* 💼 **LinkedIn:** [Let's connect on LinkedIn](YOUR_LINKEDIN_URL_HERE)
+* 💼 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/ardena-raiche2025/)
