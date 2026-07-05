@@ -1,4 +1,4 @@
-streamlit run dashboard/app.py
+streamlit run dashboards/01-sales-performance/dashboard/app.py
 order_id,order_date,region,segment,category,sub_category,sales,profit,discount,customer_id
 ORD-10001,2025-01-03,East,Consumer,Technology,Phones,820,180,0.10,CUST-1001
 ORD-10002,2025-01-04,West,Corporate,Furniture,Chairs,640,72,0.18,CUST-1002
