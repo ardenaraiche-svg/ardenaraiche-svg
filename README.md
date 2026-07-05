@@ -109,8 +109,8 @@ I am currently pursuing my **MBA in AI** and continuing to build projects that c
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio Site:** Visit my live portfolio
-- 💼 **LinkedIn:** Let's connect on LinkedIn
+- 🌐 **Portfolio:** [https://ardenaraiche-svg.github.io](https://ardenaraiche-svg.github.io)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ardena-raiche2025/](https://www.linkedin.com/in/ardena-raiche2025/)
 - 📧 **Email:** [Ardena.raiche@gmail.com](mailto:Ardena.raiche@gmail.com)
 
 ---
