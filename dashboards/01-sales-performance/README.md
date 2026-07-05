@@ -269,8 +269,3 @@ st.markdown(
 """
 )
 
-st.caption("Tip: Replace sample data with your own CSV at data/raw/sales_data.csv for portfolio screenshots.")
-streamlit>=1.37.0
-pandas>=2.2.2
-numpy>=2.0.0
-plotly>=5.23.0
